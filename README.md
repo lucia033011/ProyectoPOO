@@ -38,7 +38,10 @@ El código sigue una *arquitectura modular*, con los archivos principales agrupa
 ---
 
 ## 📸 *Captura del Proyecto* 💝  
-![Ejecución del programa](https://github.com/user-attachments/assets/37123a2a-1571-42f9-a42d-aa20f4350261)  
+![Ejecucion del programa](https://github.com/user-attachments/assets/405db96e-5b7f-4756-a638-d7ce9357e2f7)
+
+
+
 
 ---
 
