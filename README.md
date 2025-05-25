@@ -55,7 +55,7 @@ El código sigue una *arquitectura modular*, con los archivos principales agrupa
 ## 🚀 *Instalación y Uso*  
 1. 🔗 Clona este repositorio con:  
    bash
-   git clone <[URL_DEL_REPOSITORIO](https://github.com/lucia033011/Proyecto.git)>
+   git clone <[URL_DEL_REPOSITORIO](https://github.com/lucia033011/ProyectoPOO.git)>
      
 2. 🛠 Asegúrate de tener Pycharm instalado.  
 3. ▶ Ejecuta main.py para probar la funcionalidad.  
